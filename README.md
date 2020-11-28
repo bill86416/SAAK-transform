@@ -1,5 +1,5 @@
 # SAAK-transform
-Implementation on SAAK transform on MNIST. This code is referred to https://arxiv.org/abs/1710.04176.
+Implementation on SAAK transform on MNIST. This is an unofficial code is referred to https://arxiv.org/abs/1710.04176.
 
 # Usage
 ##  Train the model
